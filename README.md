@@ -14,6 +14,7 @@ and if your request `http://localhost:8080` you'll see the following output:
 ```shell
 ❯ curl http://localhost:8080
 
+
           ##         .
     ## ## ##        ==
  ## ## ## ## ##    ===
